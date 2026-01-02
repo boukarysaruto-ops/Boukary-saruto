@@ -1,0 +1,7 @@
+{
+  "name": "DocuNexus - Guide Textuel Intelligent",
+  "description": "Une plateforme de génération de guides textuels approfondis utilisant l'IA pour extraire des connaissances précises sans dépendre de contenus vidéo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
